@@ -43,10 +43,24 @@
                         </div>
                     </div>
                 </div>
+                <!-- /.card -->
+
             </div>
 
 
-            {{-- <div class="card">
+            
+
+
+        </div>
+         
+            
+        @endforeach
+       
+    </div>
+    <!-- /.movies -->
+
+
+    {{-- <div class="card">
                 <h4>Titolo: {{$movie->title}}</h4>
                 <h4>Titolo Originale: {{$movie->original_title}}</h4>
 
@@ -61,15 +75,5 @@
                    Voto: {{$movie->vote}}
                  </div>
             </div> --}}
-        <!-- /.card -->
-
-
-        </div>
-         
-            
-        @endforeach
-       
-    </div>
-    <!-- /.movies -->
     
 @endsection
