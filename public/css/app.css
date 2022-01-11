@@ -1,0 +1,16 @@
+.section_title {
+  text-align: center;
+}
+
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+}
+.movies .col-4 {
+  width: 25%;
+}
+.movies .col-4 .card {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 20px;
+}
