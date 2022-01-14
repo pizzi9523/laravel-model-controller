@@ -59,7 +59,7 @@
 <!-- /.movies -->
 
 
-{{-- <div class="card">
+<!-- {{-- <div class="card">
                 <h4>Titolo: {{$movie->title}}</h4>
 <h4>Titolo Originale: {{$movie->original_title}}</h4>
 
@@ -73,6 +73,6 @@
 <div class="vote">
     Voto: {{$movie->vote}}
 </div>
-</div> --}}
+</div> --}} -->
 
 @endsection
